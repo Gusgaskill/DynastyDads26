@@ -1,6 +1,6 @@
 /*   STEP 1   */
-export const leagueID = "1181064137580417024"; // your league ID
-export const leagueName = "Dynasty Dads 1 2025"; // your league name
+export const leagueID = "1198066479661060096"; // your league ID
+export const leagueName = "Dynasty Dads 26 2026"; // your league name
 export const dues = 20; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
